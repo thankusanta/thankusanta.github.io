@@ -1,1 +1,0 @@
-# thankusanta.github.io
