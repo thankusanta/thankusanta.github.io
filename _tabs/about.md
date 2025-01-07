@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> 하늘에 떠 있는 구름 속에서 땡큐와 산타가 나타나 나를 웃음 짓게 만든다.  
+> 덩치는 나와 비슷하게 커졌지만, 여전히 아기 같은 녀석들.  
+> 너희들의 앞 날이 길게 뻗은 고속도로와 같이 쭉쭉 뻗어 나가길,  
+> 가다가 힘들면 옆 길로 빠져 가로수 그늘 밑에서 편안하게 잠시 쉬어 가길,  
+> 그리고는 다시 돌아와 포근한 하늘 아래에서  
+> 언제나 지금처럼 밝고 건강하게 자라나길 바랄께.
 {: .prompt-tip }

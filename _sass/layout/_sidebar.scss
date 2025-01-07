@@ -16,7 +16,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   height: 100%;
   overflow-y: auto;
   width: v.$sidebar-width;
-  background: var(--sidebar-bg);
+  background: var(--sidebar-bg) center / cover;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for IE, Edge and Firefox */
@@ -79,7 +79,10 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     @include mx.mt-mb(2.5rem);
     @extend %clickable-transition;
 
-    padding-left: 2.5rem;
+    display: flex;
+    flex-direction: column; /* 세로 방향으로 정렬 */
+    align-items: center; /* 가로 방향으로 중앙 정렬 */
+    padding-left: 1.25rem;
     padding-right: 1.25rem;
     width: 100%;
 
