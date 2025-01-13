@@ -8,7 +8,7 @@
   // Prettier
   //
   "editor.defaultFormatter": null,
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   // Shopify Liquid
   "files.associations": {
     "*.html": "liquid"
