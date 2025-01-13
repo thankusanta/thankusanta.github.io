@@ -6,7 +6,8 @@
   },
   "editor.snippetSuggestions": "top",
   // Prettier
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  //
+  "editor.defaultFormatter": null,
   "editor.formatOnSave": true,
   // Shopify Liquid
   "files.associations": {
@@ -14,6 +15,7 @@
   },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //"editor.defaultFormatter": null
   },
   // Formatter
   "[html][liquid]": {
