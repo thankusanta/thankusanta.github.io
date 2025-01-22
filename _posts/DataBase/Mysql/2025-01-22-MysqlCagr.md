@@ -21,7 +21,7 @@ $$ \text{CAGR} = \left( \frac{EV}{BV} \right)^{\frac{1}{n}} - 1   $$
 - `BV` : 초기 가치 (Beginning Value)
 - `n`  : 기간 (년 단위)
 
-### MySQL에서 CAGR 함수 생성하기
+### MySQL에서 CAGR 함수 생성 및 사용하기
 
 ```sql
 DELIMITER //
