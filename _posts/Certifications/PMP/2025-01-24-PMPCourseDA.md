@@ -16,7 +16,7 @@ mermaid: false
 - Increase Awareness  
 
 <details>
-<summary> 정답 및 해설 보기</summary>
+<summary> 정답 및 해설 보기</summary>  
 <div markdown="1">
 
 - Be Awesome
