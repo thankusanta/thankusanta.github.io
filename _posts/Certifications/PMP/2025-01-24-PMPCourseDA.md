@@ -1,6 +1,6 @@
 ---
-title: Basics of Disciplined Agile™ Online Course Questions
-description: "Disciplined Agile is a straightforward, agnostic toolkit that harnesses a world of agile practices and guides you to the best way of working for your team or organization."
+title: "[PMI Course Question] Basics of Disciplined Agile"
+description: "Disciplined Agile은 다양한 애자일 방법론을 활용하여 팀이나 조직에 가장 적합한 방식으로 일할 수 있도록 안내하는 간편하고 제약 없는 툴킷입니다."
 author: kis
 categories: [Certifications, PMP]
 tags: [Certifications, PMP, DA, "Disciplined Agile", "PMP Certification", "PMI Course"]
