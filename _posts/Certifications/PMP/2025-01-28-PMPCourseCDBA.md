@@ -3,7 +3,7 @@ title: "[PMI Course Question] PMI Citizen Developer™ Business Architect Skills
 description: "프로젝트 리더들은 거버넌스 프로세스를 관리하고 IT와 비즈니스의 이해 관계자 간 협업을 감독하고 조직 구조를 내재화하는 방법을 배우게 됩니다."
 author: kis
 categories: [Certifications, PMP]
-tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam"]
+tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", "PMI Citizen Developer", CDBA]
 pin: false
 math: false
 mermaid: false
