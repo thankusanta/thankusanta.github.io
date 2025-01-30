@@ -224,3 +224,7 @@ mermaid: false
 - **[정답] All the above** 
 </div>
 </details>
+
+#### 출처(참고)
+- [PMI Learning](https://learning.pmi.org/){:target="_blank"}
+

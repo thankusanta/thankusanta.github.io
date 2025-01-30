@@ -471,8 +471,10 @@ As a [type of user], I want [an action], so that [a benefit/a value].
 
 #### 출처(참고)
 
-##### SCRUM PROCESS TERMS
+- [PMI Learning](https://learning.pmi.org/){:target="_blank"}
 
+
+##### SCRUM PROCESS TERMS
 
 - **Scrum**: is a work approach that emphasizes regular reassessment of plans in short, iterative phases with daily communication.
 
