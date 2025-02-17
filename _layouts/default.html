@@ -43,6 +43,8 @@ layout: compress
               {% assign _include_path = _include | append: '.html' %}
               {% include {{ _include_path }} lang=lang %}
             {% endfor %}
+            
+            {%include google-ads-panel.html lang=lang %}            
           </aside>
         </div>
 
