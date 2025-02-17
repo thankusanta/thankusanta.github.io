@@ -259,6 +259,7 @@ header {
   max-height: 100vh;
   scrollbar-width: none;
   margin-top: 2rem;
+  
 
   &:not(.invisible) {
     -webkit-animation: fade-up 0.8s;
@@ -334,6 +335,17 @@ header {
   > * {
     @extend %panel-border;
   }
+}
+
+#toc-wrapper-ad {
+  border-left: 1px solid rgba(158, 158, 158, .17);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 38rem;
+  z-index: 1;
+  transition: top .2sease-in-out;
+  -webkit-animation: fade-up .8s;
+  animation: fade-up .8s;
 }
 
 /* --- TOC button, bar and popup in mobile/tablet --- */

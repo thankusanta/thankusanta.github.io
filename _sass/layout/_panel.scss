@@ -27,9 +27,11 @@
   }
 }
 
-.google-ads-panel{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+.google-ads-panel{ 
+  display: block;
+  unicode-bidi: isolate;
+  margin-top: 20px; 
+ 
 } 
 
 #panel-wrapper {

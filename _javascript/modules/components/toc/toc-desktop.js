@@ -12,6 +12,13 @@ export class TocDesktop {
 
   static refresh() {
     tocbot.refresh(this.options);
+
+    const $tocWrapper = document.getElementById('toc-wrapper');
+    const $googleAds = document.getElementById('toc-wrapper-ad');
+
+    const tocWrapperHeight = $tocWrapper.offsetHeight;
+    $googleAds.style.top = (tocWrapperHeight + 40) + 'px'; // 20px는 간격 조절
+
   }
 
   static init() {

@@ -37,14 +37,25 @@ layout: compress
             <div class="access">
               {% include_cached update-list.html lang=lang %}
               {% include_cached trending-tags.html lang=lang %}
-            </div>
 
+              {% if page.layout == 'post' %}
+                {% include_cached google-ads-square.html lang=lang %}  
+              {% else %}                
+                {% include_cached google-ads-multiplex-vertical.html lang=lang %}  
+              {% endif %}                     
+            </div>
+            
             {% for _include in layout.panel_includes %}
               {% assign _include_path = _include | append: '.html' %}
               {% include {{ _include_path }} lang=lang %}
             {% endfor %}
-            
-            {%include google-ads-panel.html lang=lang %}            
+
+            {% if page.layout == 'post' %}
+              <div id="toc-wrapper-ad">
+              {% include_cached google-ads-multiplex-vertical.html lang=lang %}              
+              </div>
+            {% endif %}            
+
           </aside>
         </div>
 
@@ -56,11 +67,14 @@ layout: compress
               {% include {{ _include_path }} lang=lang %}
             {% endfor %}
 
-            {% include_cached footer.html lang=lang %}
+            {% include_cached google-ads-multiplex-horizontal.html lang=lang %}  
+
+            {% include_cached footer.html lang=lang %}            
           </div>
         </div>
 
         {% include_cached search-results.html lang=lang %}
+        
       </div>
 
       <aside aria-label="Scroll to Top">

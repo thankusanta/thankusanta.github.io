@@ -96,6 +96,8 @@ script_includes:
         </div>
       </div>
     </div>
+
+    {% include_cached google-ads-horizontal.html lang=lang %} 
   </header>
 
   {% if enable_toc %}
@@ -124,6 +126,8 @@ script_includes:
 
   <div class="content">
     {{ content }}
+
+    {% include_cached google-ads-horizontal.html lang=lang %} 
   </div>
 
   <div class="post-tail-wrapper text-muted">
