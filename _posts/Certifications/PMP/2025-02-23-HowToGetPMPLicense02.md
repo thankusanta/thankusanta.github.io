@@ -3,7 +3,7 @@ title: "최소 비용으로 PMP 자격증 합격 후기 - 2탄. 스터디 및 �
 description: "최소 비용으로 PMP 자격증 합격하기 위한 스터디 방법 공유"
 author: kis
 categories: [Certifications, PMP]
-tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", "독학", 자격, qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소 비용", "Minimum Cost"]
+tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", "독학", 자격, qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소 비용", "Minimum Cost", 합격후기, "Success Story"]
 pin: false
 math: false
 mermaid: false
