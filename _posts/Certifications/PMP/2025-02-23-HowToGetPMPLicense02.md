@@ -1,16 +1,16 @@
 ---
-title: "최소 비용으로 PMP 자격증 합격 후기 - 2탄. 스터디 및 합격 후기"
-description: "최소 비용으로 PMP 자격증 합격하기 위한 스터디 방법 공유"
+title: "최소 비용으로 PMP 자격증 합격 후기 - 2탄. 스터디 및 합격"
+description: "최소 비용으로 PMP 자격증 합격하기 위한 시험 영역 안내 및 스터디 방법 공유"
 author: kis
 categories: [Certifications, PMP]
-tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", "독학", 자격, qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소 비용", "Minimum Cost", 합격후기, "Success Story"]
+tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", 독학, 자격, qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소 비용", "Minimum Cost", 합격후기, "Success Story"]
 pin: false
 math: false
 mermaid: false
-image:
-  path: /assets/img/20250223/pmp23.png
 ---
 
+![PMP자격증](/assets/img/20250223/pmp23.png)
+*PMP자격증*
 
 ## 1. PMP 란?
 - PMP(Project Management Professional) 자격증은 프로젝트 관리 분야에서 가장 권위 있는 자격증 중 하나로, 미국 PMI(Project Management Institute)에서 발급합니다.
@@ -55,8 +55,8 @@ image:
     - 정책 및 절차 준수: 조직의 정책과 절차를 준수하도록 보장합니다.
 
 
-## 3. PMBOK Guide PDF 책 다운로드 하는 방법
-- 영문, 국문 선택 가능합니다.
+## 3. PMBOK Guide PDF 책 다운로드
+- PMI사이트에서영문, 국문 선택 가능합니다.
 - 시험은 한국어로 선택 가능하지만 번역이 매끄럽지 않을 수 있으니, 영문 버전도 함께 다운로드 받아 스터디하는 것을 권장합니다.
 ![PMBOK Guide PDF](/assets/img/20250223/pmp21.png)
 *PMBOK Guide PDF*
