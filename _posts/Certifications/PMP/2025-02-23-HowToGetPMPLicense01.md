@@ -1,6 +1,6 @@
 ---
-title: "독학 및 최소 비용으로 PMP 자격증 합격 후기 - 1탄. 시험 응시 자격(교육, 경력) 준비 및 신청"
-description: "독학 및 최소 비용으로 PMP 자격증 합격하기 위한 무료 강좌 수강하는 법 안내"
+title: "독학 및 최소 비용으로 3주 만에 PMP 자격증 합격한 후기 - 1탄. 응시 자격 준비 및 신청"
+description: "PMP 시험 응시 요건인 35PDU를 최소 비용으로 획득하는 방법과 PMP 응시 지원서 작성하는 방법 안내"
 author: kis
 categories: [Certifications, PMP]
 tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", 독학, 자격, Qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소비용", "Minimum Cost", 합격후기, "Success Story"]
@@ -8,6 +8,8 @@ pin: false
 math: false
 mermaid: false
 ---
+
+프리랜서 개발자로 계약 종료 후 잠시 쉬는 기간에 PMP 자격증에 도전하였습니다. 1월 23일부터 시작하여 무료 강좌를 통해 35 PDU를 획득한 후 지원서를 신청하였습니다. PMBOK 7판 기본서를 정독하였으며, PMP Eco 문제집을 구입하여 연습문제를 여러 번 풀면서 모르는 용어들을 정리하였습니다. 설 연휴 기간을 제외하고 열공한 결과 약 3주 뒤 2월 15일에 시험에 응시하여 합격할 수 있었습니다.
 
 ## 1. PMP 란?
 - PMP(Project Management Professional) 자격증은 프로젝트 관리 분야에서 가장 권위 있는 자격증 중 하나로, 미국 PMI(Project Management Institute)에서 발급합니다.
@@ -73,15 +75,14 @@ mermaid: false
 ![수강정보](/assets/img/20250223/pmp07.png)
 *수강정보 입력* 
 
-#### Project Description 작성 방법 및 샘플
+#### ※ Project Description 작성 방법 및 샘플
 - 프로젝트 목표, 결과, 프로젝트에서의 본인의 역할, 책임 및 성과물을 포함하여 작성합니다.
-```
-Plan for a Wi-Fi system in an apartment building:
 
-* Objective: To offer a plan to extend voice and data over-the-top solutions inside an apartment building by installing Wi-Fi. 
-* Role: After creating the plan and defining stakeholders, I launched the project and also scheduled it. PL: I documented the project management plan, which contained plans for scope, schedule, and efficiency, including risk assessment. I directed the group throughout implementation while MC managed scope and quality. CL: On-time submission of a bid that included a workable solution that satisfied the customer's needs. 
-* Outcome: The customer received a thorough bid. 
-```
+> Plan for a Wi-Fi system in an apartment building:
+> * **Objective**: To offer a plan to extend voice and data over-the-top solutions inside an apartment building by installing Wi-Fi. 
+> * **Role**: After creating the plan and defining stakeholders, I launched the project and also scheduled it. PL: I documented the project management plan, which contained plans for scope, schedule, and efficiency, including risk assessment. I directed the group throughout implementation while MC managed scope and quality. CL: On-time submission of a bid that included a workable solution that satisfied the customer's needs. 
+> * **Outcome**: The customer received a thorough bid. 
+
 
 
 ### 4.4. 시험 응시 정보

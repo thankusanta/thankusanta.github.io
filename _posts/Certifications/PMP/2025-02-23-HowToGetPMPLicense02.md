@@ -1,6 +1,6 @@
 ---
-title: "독학 및 최소 비용으로 PMP 자격증 합격 후기 - 2탄. 스터디 및 합격"
-description: "독학 및 최소 비용으로 PMP 자격증 합격하기 위한 시험 영역 안내 및 스터디 방법 공유"
+title: "독학 및 최소 비용으로 3주 만에 PMP 자격증 합격한 후기 - 2탄. 스터디 및 합격"
+description: "PMP 시험 영역 안내 및 스터디 방법 공유"
 author: kis
 categories: [Certifications, PMP]
 tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", 독학, 자격, Qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소 비용", "Minimum Cost", 합격후기, "Success Story"]
@@ -11,6 +11,8 @@ mermaid: false
 
 ![PMP자격증](/assets/img/20250223/pmp23.png)
 *PMP자격증*
+
+프리랜서 개발자로 계약 종료 후 잠시 쉬는 기간에 PMP 자격증에 도전하였습니다. 1월 23일부터 시작하여 무료 강좌를 통해 35 PDU를 획득한 후 지원서를 신청하였습니다. PMBOK 7판 기본서를 정독하였으며, PMP Eco 문제집을 구입하여 연습문제를 여러 번 풀면서 모르는 용어들을 정리하였습니다. 설 연휴 기간을 제외하고 열공한 결과 약 3주 뒤 2월 15일에 시험에 응시하여 합격할 수 있었습니다.
 
 ## 1. PMP 란?
 - PMP(Project Management Professional) 자격증은 프로젝트 관리 분야에서 가장 권위 있는 자격증 중 하나로, 미국 PMI(Project Management Institute)에서 발급합니다.
@@ -92,3 +94,7 @@ mermaid: false
 ![시험결과](/assets/img/20250223/pmp22.png)
 *시험결과*
 
+
+#### 출처(참고)
+- [PMP Certification ECO 문제집](https://search.shopping.naver.com/book/catalog/39969430620){:target="_blank"}
+- [ExamTopics](https://www.examtopics.com/exams/pmi/pmp/view/){:target="_blank"}
