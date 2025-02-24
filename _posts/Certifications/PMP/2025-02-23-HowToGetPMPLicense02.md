@@ -1,9 +1,9 @@
 ---
-title: "최소 비용으로 PMP 자격증 합격 후기 - 2탄. 스터디 및 합격"
-description: "최소 비용으로 PMP 자격증 합격하기 위한 시험 영역 안내 및 스터디 방법 공유"
+title: "독학 및 최소 비용으로 PMP 자격증 합격 후기 - 2탄. 스터디 및 합격"
+description: "독학 및 최소 비용으로 PMP 자격증 합격하기 위한 시험 영역 안내 및 스터디 방법 공유"
 author: kis
 categories: [Certifications, PMP]
-tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", 독학, 자격, qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소 비용", "Minimum Cost", 합격후기, "Success Story"]
+tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", 독학, 자격, Qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소 비용", "Minimum Cost", 합격후기, "Success Story"]
 pin: false
 math: false
 mermaid: false
@@ -17,16 +17,16 @@ mermaid: false
 - 이 자격증은 프로젝트 관리 능력을 인증하며, 전 세계적으로 인정받고 있습니다.
 
 
-## 2. PMP Exam 
+## 2. PMP Exam 정보
 - PMP 시험은 총 180개의 문제로 구성되어 있으며, 이를 완료하기 위해 230분(3시간 50분)이 주어집니다
 - 추가로, 두 번의 10분 휴식 시간이 제공되며, 이 시간은 시험 시간에 포함되지 않습니다
-- 쉬는 시간은 선택사항으로 쉬지 않고 이어서 진행해도 됩니다.
+- 60문제 마다 제공되는 쉬는 시간은 선택사항으로 쉬지 않고 이어서 진행해도 됩니다.
 - 시험 문제는 세 가지 주요 영역인 People, Process, Business Environment에서 출제됩니다. 
 - 각 영역의 비중은 다음과 같습니다:
     - People: 42%
     - Process: 50%
     - Business Environment: 8%
-- 시험은 컴퓨터 기반 테스트(CBT)로 진행되며, Pearson VUE 테스트 센터에서 응시하거나 온라인으로 응시할 수 있습니다.
+- 시험은 컴퓨터 기반 테스트(CBT)로 진행되며, Pearson VUE 테스트 센터에서 응시하거나 집에서 온라인으로 응시할 수 있습니다.
 
 ### 2.1. People
 - 이 영역은 프로젝트 팀과 관련된 주제를 다룹니다. 
@@ -56,7 +56,7 @@ mermaid: false
 
 
 ## 3. PMBOK Guide PDF 책 다운로드
-- PMI사이트에서영문, 국문 선택 가능합니다.
+- PMI사이트에서 영문/국문 선택 가능합니다.
 - 시험은 한국어로 선택 가능하지만 번역이 매끄럽지 않을 수 있으니, 영문 버전도 함께 다운로드 받아 스터디하는 것을 권장합니다.
 ![PMBOK Guide PDF](/assets/img/20250223/pmp21.png)
 *PMBOK Guide PDF*
@@ -71,7 +71,7 @@ mermaid: false
 - 블로그 內 'PMP ECO(Exam Content Outline)' 게시물 참조
 
 ### 4.3. 연습문제 풀기
-- PMBOK Guide 외에도 애자일 등 프로젝트 관련 용어와 의미를 확인해야 합니다.
+- PMBOK Guide 외에도 애자일 등 프로젝트 관련 용어와 의미를 이해해야 합니다.
 - [PMP Certification ECO 문제집](https://search.shopping.naver.com/book/catalog/39969430620){:target="_blank"}
 - [ExamTopics](https://www.examtopics.com/exams/pmi/pmp/view/){:target="_blank"}
 

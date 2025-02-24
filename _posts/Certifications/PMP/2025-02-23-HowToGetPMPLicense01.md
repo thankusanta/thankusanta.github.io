@@ -1,9 +1,9 @@
 ---
-title: "최소 비용으로 PMP 자격증 합격 후기 - 1탄. 시험 응시 자격(교육, 경력) 준비 및 신청"
-description: "최소 비용으로 PMP 자격증 합격하기 위한 무료 강좌 수강하는 법 안내"
+title: "독학 및 최소 비용으로 PMP 자격증 합격 후기 - 1탄. 시험 응시 자격(교육, 경력) 준비 및 신청"
+description: "독학 및 최소 비용으로 PMP 자격증 합격하기 위한 무료 강좌 수강하는 법 안내"
 author: kis
 categories: [Certifications, PMP]
-tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", 독학, 자격, qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소비용", "Minimum Cost", 합격후기, "Success Story"]
+tags: [Certifications, PMP, "PMP Certification", "PMI Course", "PMP Exam", 독학, 자격, Qualifications, "Self Study", 교육, "Education", 경력, "Experience", "최소비용", "Minimum Cost", 합격후기, "Success Story"]
 pin: false
 math: false
 mermaid: false
@@ -38,9 +38,9 @@ mermaid: false
     
 ### 3.3. 멤버십 등록
 - PMI 멤버십에 등록하면 시험 응시비 할인, 온라인 교육 할인 등의 혜택을 받을 수 있습니다.
-- 멤버십 가입 안한 경우 PMP 시험 응시 비용은 $655 이며, 멤버인 경우 $405 로 $255 차이가 납니다.
-- 멤버십 가입 비용은 $139 로 비멤버로 PMP 시험에 응시했을때 보다 $116 할인을 받을 수 있습니다.
-- 또한, 멤버 한정 PMBOK Guide 책(영문,국문)을 PDF 로 다운로드 할 수 있습니다.
+- 멤버십 가입 안한 경우 PMP 시험 응시 비용은 $731.5($655 + tax $65.5) 이며, 멤버인 경우 $445.5($405 + tax $40.5) 로 $286 차이가 납니다.
+- 멤버십 가입 비용은 $152.9($139 + tax $13.9) 로 비멤버로 PMP 시험에 응시했을때 보다 $133.1 할인을 받을 수 있습니다.
+- 또한, 멤버십 한정 PMBOK Guide 책(영문,국문)을 PDF 로 다운로드 할 수 있으며, 일부 유료 강좌를 무료로 들을 수 있습니다.
 ![멤버십가입](/assets/img/20250223/pmp01.png)
 *멤버십 가입*
 
@@ -94,4 +94,5 @@ Plan for a Wi-Fi system in an apartment building:
   
 
 #### 출처(참고)
+[PMI](https://www.pmi.org/){:target="_blank"}
 [Project Description Examples](https://www.knowledgehut.com/blog/project-management/pmp-examples){:target="_blank"}
