@@ -11,9 +11,11 @@ mermaid: false
 
 ## Apache POI란?
 
-Apache POI는 Microsoft Office 문서를 다루기 위한 인기 있는 Java 라이브러리입니다. 대표적으로 Workbook은 `.xls` 및 `.xlsx` 형식의 Excel 파일을 읽고, 쓰고, 조작하는 데 필요한 포괄적인 기능을 제공합니다.
+Apache POI는 Microsoft Office 문서를 다루기 위한 인기 있는 Java 라이브러리입니다.  
 
-**Apache POI는 강력한 기능을 제공하지만, 사용 시 적절한 메모리 관리를 통한 성능 최적화가 필요합니다.**
+대표적으로 Workbook은 `.xls` 및 `.xlsx` 형식의 Excel 파일을 읽고, 쓰고, 조작하는 데 필요한 포괄적인 기능을 제공합니다.  
+
+**Apache POI는 강력한 기능을 제공하지만, 사용 시 적절한 메모리 관리를 통한 성능 최적화가 필요합니다.**  
 
 **Workbook만을 이용하여 엑셀 파일을 다루면 파일 용량의 수십배 이상의 메모리를 사용하게 되므로, 파일 확장자 및 용량에 따른 적절한 API를 활용해야 OOM이 발생하지 않고, 효율적으로 사용할 수 있습니다.**
 
